@@ -1,0 +1,9 @@
+server:
+  port: 8008
+
+aws:
+  region: us-east-1
+  dynamodb:
+    url: http://127.0.0.1:4566
+    access-key: silver
+    secret-key: silver
